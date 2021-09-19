@@ -1,0 +1,12 @@
+.herois.feature.col {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    
+}
+img#thumb-heroi{
+    width: 100px;
+    height: 100px;
+}
+img#thumb-heroi .bg-primary {
+    background-color: #fff;
+}
